@@ -1,8 +1,8 @@
-# TALENTUM SPACE
+# ABC TECHNOLOGIES
 
 ## CÓDIGOS
 
-_Concentrado de códigos y sistemas realizados durante la estancia como Becario en Talentum Space_
+_Concentrado de códigos y sistemas realizados durante la estancia como Becario en ABC TECHNOLOGIES_
 
 ## Organización 📌
 
