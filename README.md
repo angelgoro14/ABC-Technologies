@@ -6,5 +6,8 @@ _Concentrado de códigos y sistemas realizados durante la estancia como Becario 
 
 ## Organización 📌
 
-* [1._ Cronometro JS](https://github.com/angelgoro14/TALENTUM-SPACE/tree/main/Cronometro%20JS) - Cronómetro inverso en Java Script con el objetivo de mostrar al usuario el tiempo activo en la plataforma mientras se realiza la busqueda de posiciones de interes en la plataforma de Talentum Space.
- 
+* [1._ PANEL VIEW_1](https://github.com/angelgoro14/ABC-Technologies/tree/main/PANEL%20VIEW_1) - Diseño de un sistema de HMI que permita la interacción y actualización de registros de una base de datos en MYSQL Workbench. 
+
+* [2._ allen-bradley](https://github.com/angelgoro14/ABC-Technologies/blob/main/allen-bradley.py) - Código que permite la comunicación bidireccional entre Python, PLC Allen Bradley 2080-LC50 Y MYSQL Workbench.  
+
+* [3._ omron](https://github.com/angelgoro14/ABC-Technologies/blob/main/omron.py) - Código que permite la comunicación bidireccional entre Python, PLC Omron NJ01 Y MYSQL Workbench.   
