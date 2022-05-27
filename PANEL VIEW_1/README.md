@@ -1,14 +1,14 @@
-# ABC TECHNOLOGIES
+# PANELVIEW
 
-## CÓDIGOS
-
-_Concentrado de códigos y sistemas realizados durante la estancia como Becario en ABC TECHNOLOGIES_
+_HMI que interactua con la base de datos en MYSQL Workbench.
 
 ## Organización 📌
 
-* [1._ PANEL VIEW_1](https://github.com/angelgoro14/ABC-Technologies/tree/main/PANEL%20VIEW_1) - Diseño de un sistema de HMI que permita la interacción y actualización de registros de una base de datos en MYSQL Workbench. 
+* [1._ images](https://github.com/angelgoro14/ABC-Technologies/tree/main/PANEL%20VIEW_1/images) - Carpeta que incluye las imagenes necesarias para el desarollo de la HMI. 
 
-* [2._ allen-bradley](https://github.com/angelgoro14/ABC-Technologies/blob/main/allen-bradley.py) - Código que permite la comunicación bidireccional entre Python, PLC Allen Bradley 2080-LC50 Y MYSQL Workbench.  
+* [2._ conexion.py](https://github.com/angelgoro14/ABC-Technologies/blob/main/PANEL%20VIEW_1/conexion.py) - Código que permite la comunicación con la base de datos MYSQL Workbench.  
 
-* [3._ omron](https://github.com/angelgoro14/ABC-Technologies/blob/main/omron.py) - Código que permite la comunicación bidireccional entre Python, PLC Omron NJ01 Y MYSQL Workbench.   
+* [3._ main.py](https://github.com/angelgoro14/ABC-Technologies/blob/main/PANEL%20VIEW_1/main.py) - Código principal del sistema.  
+
+* [4._ pantalla_original.py](https://github.com/angelgoro14/ABC-Technologies/blob/main/PANEL%20VIEW_1/pantalla_original.py) - Código sobre el diseño y retoques de la HMI.
  
